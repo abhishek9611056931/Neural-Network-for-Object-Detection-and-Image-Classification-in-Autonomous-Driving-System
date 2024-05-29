@@ -1,0 +1,4 @@
+Developed and implemented advanced neural network models to enhance object detection and image classification capabilities within autonomous driving systems. 
+Utilized convolutional neural networks (CNNs) to accurately identify and classify various objects such as pedestrians, vehicles, and traffic signs in real-time, ensuring quick and reliable responses to dynamic driving environments.
+This project significantly improved the safety and efficiency of autonomous vehicle navigation and decision-making by increasing the precision and reliability of object detection and classification tasks, thereby contributing to the overall advancement of autonomous driving technology
+The enhanced system effectively supports real-time situational awareness, crucial for navigating complex urban environments.
